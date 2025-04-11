@@ -2,7 +2,6 @@
 
 A lightweight, client-side tool for exploring BNB Smart Chain (BSC) tokens, prices, and transaction history without requiring backend infrastructure.
 
-![BSC Token Explorer Screenshot](https://via.placeholder.com/800x450.png?text=BSC+Token+Explorer)
 
 ## Features
 
@@ -59,12 +58,6 @@ The application includes multiple BSC RPC endpoints with automatic failover if t
 ## Local Development
 
 Simply clone the repository and open `index.html` in a browser. No build process or server setup is required.
-
-```bash
-git clone https://github.com/yourusername/bsc-token-explorer.git
-cd bsc-token-explorer
-# Open index.html in your browser
-```
 
 ## Limitations
 
